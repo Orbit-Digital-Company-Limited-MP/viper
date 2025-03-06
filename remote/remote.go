@@ -14,7 +14,7 @@ package remote
 
 // 	crypt "github.com/sagikazarmark/crypt/config"
 
-// 	"github.com/spf13/viper"
+// 	"github.com/Orbit-Digital-Company-Limited-MP/viper"
 // )
 
 // type remoteConfigProvider struct{}

@@ -28,8 +28,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/spf13/viper/internal/features"
-	"github.com/spf13/viper/internal/testutil"
+	"github.com/Orbit-Digital-Company-Limited-MP/viper/internal/features"
+	"github.com/Orbit-Digital-Company-Limited-MP/viper/internal/testutil"
 )
 
 // var yamlExample = []byte(`Hacker: true
